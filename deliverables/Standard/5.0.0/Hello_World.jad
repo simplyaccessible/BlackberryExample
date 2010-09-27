@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: Hello_World
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 3544
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1285613622
+MIDlet-Jar-URL: Hello World.jar
+RIM-COD-URL: Hello_World.cod
+RIM-COD-SHA1: 0e df 81 f2 20 ee 59 a3 ba a6 af d1 4d 77 c3 67 d5 98 49 15
+RIM-COD-Size: 1476
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: Hello World
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
